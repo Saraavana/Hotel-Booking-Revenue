@@ -6,6 +6,9 @@ In this data analyses project, I have examined the revenue performance of a hosp
 - DSRN - Daily Sellable Room Nights
 - Realisation - successful percentage of overall bookings that have "checked out"
 - Occupancy - total successful bookings happened to the total available rooms available(capacity of the hotel)
+- Booking of the rooms with respects to weekend and weekday have also been analysed. In hotel industry, Friday and Saturday are considering as weekend. Monday to Thursday are considered as weekdays. I have performed this evaluation with the same assumption
+- Average rating of the rooms have also been visualized
+- The booking platform such as makemytrip, tripster etc., that contribute to successful booking and revenue has also been calculated 
 
 ![](./Revenue-dashboard.png)
 
