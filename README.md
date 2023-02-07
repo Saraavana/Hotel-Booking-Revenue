@@ -7,7 +7,8 @@ In this data analyses project, I have examined the revenue performance of a hosp
 - Realisation - successful percentage of overall bookings that have "checked out"
 - Occupancy - total successful bookings happened to the total available rooms available(capacity of the hotel)
 
+![](./Revenue-dashboard.png)
 
-![](.Revenue-dashboard.png)
+And this implementation is available at following link: https://app.powerbi.com/links/Q31N43U-pw?ctid=16b68413-07dc-4196-98be-c60f51634c9d&pbi_source=linkShare
 
 
